@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.9.2",
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "module-18-challenge-social-network-api",
+  "description": "MongoDB is a popular choice for many social networks due to its speed with large amounts of data and flexibility with unstructured data. This application will build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuiltyGamingJay/MODULE-18-CHALLENGE-Social-Network-Api.git"
+  },
+  "author": "jerontai mcfee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuiltyGamingJay/MODULE-18-CHALLENGE-Social-Network-Api/issues"
+  },
+  "homepage": "https://github.com/GuiltyGamingJay/MODULE-18-CHALLENGE-Social-Network-Api#readme"
+}
